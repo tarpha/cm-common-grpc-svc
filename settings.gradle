@@ -2,7 +2,7 @@ pluginManagement {
     repositories {
         maven {
             allowInsecureProtocol true
-            url 'http://localhost:8081/repository/maven-public/'
+            url 'http://10.0.1.45:8081/repository/maven-public/'
         }
     }
 }
